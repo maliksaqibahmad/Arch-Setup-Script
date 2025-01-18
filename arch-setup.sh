@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Arch Setup Script
+
 # Enable error handling
 set -euo pipefail
 
